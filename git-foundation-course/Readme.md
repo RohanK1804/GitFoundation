@@ -44,6 +44,17 @@ git clone https://github.com/RohanK1804/GitFoundation.git
 cd GitFoundation
 ```
 
+> You'll need to Genrate a Personal Access Token(PAT)
+
+https://github.com/settings/tokens
+
+You will need the PAT as your password when you Login
+-Give it access to contents for commits
+
+
+### SSH
+
+
 ## Add
 When we want to stage changes that will be included in the commit
 We can use the . to add all the possible files.

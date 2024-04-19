@@ -55,6 +55,7 @@ You will need the PAT as your password when you Login
 ### SSH
 
 
+>>>>>>> d5aa11e85daaafd3df23b6919d319a19f3b05a33
 ## Add
 When we want to stage changes that will be included in the commit
 We can use the . to add all the possible files.
